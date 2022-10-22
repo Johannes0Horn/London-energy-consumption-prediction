@@ -33,4 +33,4 @@ To further improve the performance one should probaby use the whole dataset with
 
 Also it is possible that energy consumption depends on the features but only to a little extend, so that we can make only a vague guess about the current energy consumption of a specific household and it is not possible to predict it with a higher accuracy.
 
-After all one can say our model works better then an average guess and seems to have understood the influence of some features as we have seen for example that temperature influence the prediction in an explainable way. We have shown dummy user data canbe used to actually predict the current energy consumption of a specific household.
+After all one can say our model works better than an average guess and seems to have understood the influence of some features as we have seen for example that temperature influence the prediction in an explainable way. We have shown dummy user data can be used to actually predict the current energy consumption of a specific household.
